@@ -1,4 +1,5 @@
 - 👋 Hi there, I’m @btklab
+- I love PowerShell and CLI
 
 <!---
 btklab/btklab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
