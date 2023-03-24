@@ -7,10 +7,8 @@
     - Editor
         - `Notepad.exe (Windows)`, `Vim`, `VS Code`
     - Languages
-        - `R`
-            - `RStudio`, `Rmarkdown`, `Blogdown`, `Bookdown`, `tidyverse`, `optparse`
-        - `Python`
-            - `numpy`, `pandas`, `matplotlib`, `argparse`
+        - R: `RStudio`, `Rmarkdown`, `Blogdown`, `Bookdown`, `tidyverse`, `optparse`
+        - Python: `numpy`, `pandas`, `matplotlib`, `argparse`
 
 <!---
 btklab/btklab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
