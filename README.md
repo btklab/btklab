@@ -8,10 +8,19 @@
         - gawk (Linux)
     - Applications
         - Microsoft Excel
+        - MS Paint
+        - Windows Terminal
         - Pandoc
         - Tinytex
+        - Graphviz
+        - PlantUML
+    - Editor
+        - Notepad.exe (Windows)
+        - Vim
+        - VS Code
     - Languages
         - R
+            - RStudio
             - Rmarkdown
             - Blogdown
             - Bookdown
