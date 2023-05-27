@@ -1,4 +1,6 @@
 - 👋 Hi there, I’m @btklab
+- I prefer "Write once, reuse anywhare" for data.
+- I am interested in the reporting ecosystems.
 - I ❤️ PowerShell and CLI and...
     - **Commands** `Robocopy.exe (Windows)`, `rsync (Linux)`, `grep (Linux)`, `sed (Linux)`, `gawk (Linux)`, `git`
     - **Applications** `Microsoft Excel`, `MS Paint`, `Windows Terminal`, `Pandoc`, `Tinytex`, `Graphviz`, `PlantUML`
