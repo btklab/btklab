@@ -6,7 +6,7 @@
     - **Applications** `Microsoft Excel`, `MS Paint`, `Windows Terminal`, `Pandoc`, `Tinytex`, `Graphviz`, `PlantUML`
     - **Text Editors** `Notepad.exe (Windows)`, `Vim`, `VS Code`
     - **Languages** 
-        - **R** [Quarto](https://quarto.org/), `RStudio`, `Rmarkdown`, `Blogdown`, `Bookdown`, `tidyverse`, `optparse`
+        - **R** [litedown][] [Quarto](https://quarto.org/), `RStudio`, `Rmarkdown`, `Blogdown`, `Bookdown`, `tidyverse`, `optparse`
         - **Python** `numpy`, `pandas`, `matplotlib`, `argparse`
     - **Services** `GitHub`, `GitLab`
 - Also I ❤️ paper-notebook and pen
@@ -23,7 +23,7 @@
 [Kindle]: https://www.amazon.com/b/?node=6669702011&tag=mh0b-20&hvadid=78546563935778&hvqmt=e&hvbmt=be&hvdev=c&ref=pd_sl_6itck04ygx_e
 [Cornell Notes]: https://en.wikipedia.org/wiki/Cornell_Notes
 [Sketchnoting]: https://en.wikipedia.org/wiki/Sketchnoting
-
+[litedown]: https://github.com/yihui/litedown/
 <!---
 btklab/btklab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
