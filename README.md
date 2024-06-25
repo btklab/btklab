@@ -6,7 +6,7 @@
     - **Applications** `Microsoft Excel`, `MS Paint`, `Windows Terminal`, `Pandoc`, `Tinytex`, `Graphviz`, `PlantUML`
     - **Text Editors** `Notepad.exe (Windows)`, `Vim`, `VS Code`
     - **Languages** 
-        - **R** [litedown][] [Quarto](https://quarto.org/), `RStudio`, `Rmarkdown`, `Blogdown`, `Bookdown`, `tidyverse`, `optparse`
+        - **R** [litedown][], [Quarto](https://quarto.org/), `RStudio`, `Rmarkdown`, `Blogdown`, `Bookdown`, `tidyverse`, `optparse`
         - **Python** `numpy`, `pandas`, `matplotlib`, `argparse`
     - **Services** `GitHub`, `GitLab`
 - Also I ❤️ paper-notebook and pen
